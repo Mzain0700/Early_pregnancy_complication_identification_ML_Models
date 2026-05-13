@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4e03b89d-f2b4-45b0-b402-c76ca919a783" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bca46f3e-33da-46c9-9e99-c646b8d10640" />
+
 
 # Early_-pregnancy_complication_identification
 
