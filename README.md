@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4e03b89d-f2b4-45b0-b402-c76ca919a783" />
+
 # Early_-pregnancy_complication_identification
 
 A FastAPI-based medical prediction system for maternal and neonatal healthcare outcomes using machine learning models.
